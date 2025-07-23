@@ -1,0 +1,90 @@
+1,Jouer
+2,Options
+3,Packs de textures
+4,Quitter
+5,À propos
+6,Apparence
+7,Sélectionner
+8,Annuler
+9,Retour
+10,Apparence
+11,Choisir l'apparence
+12,Développeur:
+13,Pays:
+14,Faire un don:
+15,Version:
+16,Type:
+17,Étape:
+18,Contributeurs:
+19,Remerciements spéciaux:
+20,Charger
+21,Créer
+22,Mondes
+23,Survie
+24,Créatif
+25,Extrême
+26,
+27,
+28,
+29,
+30,Créer un nouveau monde
+31,Renommer
+32,Supprimer
+33,Veux-tu supprimer ce monde ?
+34,(Ceci est irréversible)
+35,Es-tu sûr ?
+36,Oui
+37,Non
+38,Confirmer
+39,Mode de jeu: Survie
+40,Mode de jeu: Créatif
+41,Mode de jeu: Extrême
+42,Structures: Activées
+43,Structures: Désactivées
+44,Coffre bonus: Activé
+45,Coffre bonus: Désactivé
+46,Type de monde: Par défaut
+47,Type de monde: Plat
+48,Aléatoire
+49,Activé
+50,Désactivé
+51,Menu du jeu
+52,Retour au jeu
+53,Options..
+54,Succès
+55,Sauvegarder
+56,Sauvegarder et quitter
+57,Quitter
+58,Distance de vue H
+59,Distance de vue V
+60,Difficulté: Pacifique
+61,Difficulté: Facile
+62,Difficulté: Normal
+63,Difficulté: Difficile
+64,Sons:
+65,Musique:
+66,Éclairage doux
+67,Rendu du brouillard
+68,Ciel détaillé
+69,Nouveau sprint
+70,Blocs animés
+71,Saut automatique
+72,Boutons d'aide
+73,Rendu de l'interface
+74,Mode développeur
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

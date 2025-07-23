@@ -1,0 +1,90 @@
+1,Ludere
+2,Optiones
+3,Packa Texturorum
+4,Exire
+5,De
+6,Apparentia
+7,Selectus
+8,Renuntiare
+9,Retro
+10,Apparentia
+11,Eligere Apparentiam
+12,Developmentus:
+13,Patria:
+14,Donare:
+15,Versio:
+16,Genus:
+17,Scaena:
+18,Contributores:
+19,Gratias Speciales:
+20,Onus
+21,Creare
+22,Mundi
+23,Superviventia
+24,Creativus
+25,Extremus
+26,
+27,
+28,
+29,
+30,Creare Novum Mundum
+31,Nomen mutare
+32,Delere
+33,Visne delere hunc mundum?
+34,(Haec res non potest reverti)
+35,Certus es?
+36,Ita
+37,Minime
+38,Confirmare
+39,Modus ludendi: Superviventia
+40,Modus ludendi: Creativus
+41,Modus ludendi: Extremus
+42,Structurae: Activatae
+43,Structurae: Desactivatae
+44,Thesaurus Boni: Activatus
+45,Thesaurus Boni: Desactivatus
+46,Genus Mundi: Default
+47,Genus Mundi: Planus
+48,Casuale
+49,Activatus
+50,Desactivatus
+51,Menu Ludum
+52,Redire ad ludum
+53,Optiones..
+54,Laudes
+55,Servare
+56,Servare et exire
+57,Exire
+58,Visus Distantia H
+59,Visus Distantia V
+60,Difficultas: Pacifista
+61,Difficultas: Facilis
+62,Difficultas: Normalis
+63,Difficultas: Difficilis
+64,Sonitus:
+65,Musica:
+66,Illuminatio Mollis
+67,Nebulae Imagines
+68,Caelum Detalitatum
+69,Novo-Sprint
+70,Blocca Animata
+71,Auto-Salto
+72,Botones Auxiliarii
+73,Renderizare GUI
+74,Modus Developmenti
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

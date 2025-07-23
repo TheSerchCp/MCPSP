@@ -1,0 +1,105 @@
+1,Grasblock
+2,Erde
+3,Stein
+4,Wasser
+5,Golderz
+6,Sand
+7,Eichenholz
+8,Eichenblätter
+9,Schwarze Wolle
+10,Graue Wolle
+11,Rote Wolle
+12,Rosa Wolle
+13,Grüne Wolle
+14,Hellgrüne Wolle
+15,Braune Wolle
+16,Gelbe Wolle
+17,Blaue Wolle
+18,Hellblaue Wolle
+19,Violette Wolle
+20,Magenta Wolle
+21,Orange Wolle
+22,Hellgraue Wolle
+23,Weiße Wolle
+24,Kaktus
+25,Sandstein
+26,Ziegelsteine
+27,Monster-Spawner
+28,Schnee
+29,Fichtenholz
+30,Birkenholz
+31,Eis
+32,Zuckerrohr
+33,Eichenholzbretter
+34,Bücherregal
+35,Bruchstein
+36,Fichtenblätter
+37,Birkenblätter
+38,Spinnennetz
+39,Glas
+40,Eisenerz
+41,Kohleerz
+42,Diamanterz
+43,Redstone-Erz
+44,Lapislazuli-Erz
+45,Obsidian
+46,Schnee
+47,Tür
+48,Eichenzaun
+49,Steintreppe
+50,Diamantblock
+51,Goldblock
+52,Eisenblock
+53,Ziegeltreppe
+54,Notenblock
+55,Plattenspieler
+56,Kürbis
+57,Melone
+58,Eichenholzstufe
+59,Steinstufe
+60,Ziegelstufe
+61,Bruchsteinstufe
+62,Sandsteinstufe
+63,Doppelte Stufe
+64,Bemooster Bruchstein
+65,Schneeschicht
+66,Truhe
+67,Lehm
+68,Lapislazuli-Block
+69,Steinziegel
+70,Rissige Steinziegel
+71,Gemeißelte Steinziegel
+72,Werkbank
+73,Ofen
+74,Steinziegelstufe
+75,Monster-Spawner
+76,TNT
+77,Lava
+78,Kies
+79,Eichentreppe
+80,Grundgestein
+81,Beleuchteter Kürbis
+82,Holzfalltür
+83,Birkenholz
+84,Fichtenholz
+85,Birkenholzstufe
+86,Fichtenholzstufe
+87,Birkenzaun
+88,Fichtenzaun
+89,Birkentreppe
+90,Fichtentreppe
+91,Teppich
+92,Heuballen
+93,Kohleblock
+94,Redstone-Block
+95,Quarzblock
+96,Quarzsäule
+97,Gemeißelter Quarzblock
+98,Netherrack
+99,Seelensand
+100,Glowstone
+101,Netherquarzerz
+102,Roter Sand
+103,Gehärteter Lehm
+104,Netherziegel
+105,Netherziegelzaun

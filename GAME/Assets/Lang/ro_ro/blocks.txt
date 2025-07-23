@@ -1,0 +1,105 @@
+1,Bloc de iarbă
+2,Pământ
+3,Piatră
+4,Apă
+5,Minereu de aur
+6,Nisip
+7,Lemn de stejar
+8,Frunze de stejar
+9,Lână neagră
+10,Lână gri
+11,Lână roșie
+12,Lână roz
+13,Lână verde
+14,Lână verde deschis
+15,Lână maro
+16,Lână galbenă
+17,Lână albastră
+18,Lână albastru deschis
+19,Lână mov
+20,Lână magenta
+21,Lână portocalie
+22,Lână gri deschis
+23,Lână albă
+24,Cactus
+25,Nisip pietrificat
+26,Cărămizi
+27,Generator de monștri
+28,Zăpadă
+29,Lemn de molid
+30,Lemn de mesteacăn
+31,Gheață
+32,Trestie de zahăr
+33,Scânduri de stejar
+34,Bibliotecă
+35,Piatra brută
+36,Frunze de molid
+37,Frunze de mesteacăn
+38,Pânză de păianjen
+39,Sticlă
+40,Minereu de fier
+41,Minereu de cărbune
+42,Minereu de diamant
+43,Minereu de redstone
+44,Minereu de lapis lazuli
+45,Obsidian
+46,Zăpadă
+47,Ușă
+48,Gard de stejar
+49,Scări de piatră
+50,Bloc de diamant
+51,Bloc de aur
+52,Bloc de fier
+53,Scări de cărămidă
+54,Bloc muzical
+55,Pick-up muzical
+56,Dovleac
+57,Pepene verde
+58,Plăci de stejar
+59,Plăci de piatră
+60,Plăci de cărămidă
+61,Plăci de bolovani
+62,Plăci de nisip pietrificat
+63,Plăci duble
+64,Bolovani cu mușchi
+65,Strat de zăpadă
+66,Ladă
+67,Argilă
+68,Bloc de lapis lazuli
+69,Cărămizi de piatră
+70,Cărămizi de piatră crăpate
+71,Cărămizi de piatră cioplite
+72,Masă de lucru
+73,Cuptor
+74,Plăci de cărămidă de piatră
+75,Generator de monștri
+76,TNT
+77,Lavă
+78,Pietriș
+79,Scări de stejar
+80,Piatră de bază
+81,Dovleac luminat
+82,Capac de lemn
+83,Lemn de mesteacăn
+84,Lemn de molid
+85,Plăci de mesteacăn
+86,Plăci de molid
+87,Gard de mesteacăn
+88,Gard de molid
+89,Scări de mesteacăn
+90,Scări de molid
+91,Covor
+92,Balot de paie
+93,Bloc de cărbune
+94,Bloc de redstone
+95,Bloc de cuarț
+96,Stâlp de cuarț
+97,Bloc de cuarț cioplit
+98,Netherrack
+99,Nisip de suflete
+100,Piatră luminoasă
+101,Minereu de cuarț Nether
+102,Nisip roșu
+103,Argilă întărită
+104,Cărămizi Nether
+105,Gard de cărămizi Nether

@@ -1,0 +1,149 @@
+1,Drewniany kilof
+2,Kamienny kilof
+3,Żelazny kilof
+4,Diamentowy kilof
+5,Złoty kilof
+6,Drewniany miecz
+7,Kamienny miecz
+8,Żelazny miecz
+9,Diamentowy miecz
+10,Złoty miecz
+11,Drewniana łopata
+12,Kamienna łopata
+13,Żelazna łopata
+14,Diamentowa łopata
+15,Złota łopata
+16,Drewniana siekiera
+17,Kamienna siekiera
+18,Żelazna siekiera
+19,Diamentowa siekiera
+20,Złota siekiera
+21,Drewniana motyka
+22,Kamienna motyka
+23,Żelazna motyka
+24,Diamentowa motyka
+25,Złota motyka
+26,Nożyce
+27,Kij
+28,Węgiel
+29,Sztabka żelaza
+30,Diament
+31,Sztabka złota
+32,Glina
+33,Jabłko
+34,Złote jabłko
+35,Nasiona
+36,Pszenica
+37,Chleb
+38,Cegła
+39,Wiadro
+40,Wiadro z wodą
+41,Wiadro z lawą
+42,Trzcina cukrowa
+43,Róża
+44,Mlecz
+45,Sadzonka dębu
+46,Papier
+47,Książka
+48,Śnieżka
+49,Grzyb
+50,Grzyb
+51,Miska
+52,Zupa grzybowa
+53,Drzwi
+54,Drabina
+55,Pochodnia
+56,Sadzonka świerku
+57,Sadzonka brzozy
+58,Arbuz
+59,Nasiona arbuza
+60,Cukier
+61,Ziarna kakao
+62,Ciastko
+63,Surowa wołowina
+64,Stek
+65,Lazuryt
+66,Wiadro mleka
+67,Tort
+68,Kość
+69,Mączka kostna
+70,Skóra
+71,Skórzany hełm
+72,Skórzana tunika
+73,Skórzane spodnie
+74,Skórzane buty
+75,Kolczasty hełm
+76,Kolczasta zbroja
+77,Kolczaste spodnie
+78,Kolczaste buty
+79,Żelazny hełm
+80,Żelazna klatka piersiowa
+81,Żelazne spodnie
+82,Żelazne buty
+83,Diamentowy hełm
+84,Diamentowa zbroja
+85,Diamentowe spodnie
+86,Diamentowe buty
+87,Złoty hełm
+88,Złota klatka piersiowa
+89,Złote spodnie
+90,Złote buty
+91,Zgniłe mięso
+92,Szyba
+93,Kraty
+94,Krzemień
+95,Proch strzelniczy
+96,Pył czerwonego kamienia
+97,Zegar
+98,Kompas
+99,Siodełko
+100,Szyld
+101,Ramka na przedmioty
+102,Doniczka
+103,Obraz
+104,Łóżko
+105,Płyta muzyczna
+106,Jasnoszary barwnik
+107,Szary barwnik
+108,Cyjanowy barwnik
+109,Różowy barwnik
+110,Czerwony barwnik
+111,Pomarańczowy barwnik
+112,Żółty barwnik
+113,Limonkowy barwnik
+114,Zielony barwnik
+115,Jasnoniebieski barwnik
+116,Fioletowy barwnik
+117,Karmazynowy barwnik
+118,Nasiona dyni
+119,Zapalniczka
+120,Ziemniak
+121,Pieczony ziemniak
+122,Trujący ziemniak
+123,Marchewka
+124,Płyta muzyczna
+125,Surowa wieprzowina
+126,Pieczona wieprzowina
+127,Surowa jagnięcina
+128,Pieczona jagnięcina
+129,Surowy kurczak
+130,Pieczony kurczak
+131,Pióro
+132,Jajko krowy
+133,Jajko owcy
+134,Jajko kurczaka
+135,Jajko świni
+136,Jajko zombie
+137,Jajko creepera
+138,Jajko pająka
+139,Oko pająka
+140,Nitka
+141,Łuk
+142,Strzała
+143,Jajko jaskiniowego pająka
+144,Jajko szkieletu
+145,Tarcza
+146,Kwarc
+147,Jajko piglina zombie
+148,Pył świecącego kamienia
+149,Jajko witherowego szkieletu

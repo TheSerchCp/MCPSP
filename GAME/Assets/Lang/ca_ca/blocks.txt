@@ -1,0 +1,105 @@
+1,Bloc d'herba
+2,Terra
+3,Roca
+4,Aigua
+5,Mena d'or
+7,Sorra
+8,Fusta de pomer
+9,Fulles de pomer
+10,Llana negra
+11,Llana grisa
+12,Llana vermella
+13,Llana rosa
+14,Llana verda
+15,Lana llima
+16,Llana marró
+17,Llana groga
+18,Llana blava
+19,Llana blau cel
+20,Llana lila
+21,Llana magenta
+22,Llana taronja
+23,Llana gris clar
+24,Llana blanca
+25,Cactus
+26,Roca sorrenca
+27,Maó
+28,Generador de monstres
+29,Neu
+30,Fusta de pi
+31,Fusta de bedoll
+32,Gel
+33,Canya de sucre
+34,Tablas de roble
+35,Llibreria
+36,Roca
+37,Fulles de pi
+38,Fulles de bedoll
+39,Teranyina
+40,Vidre
+41,Mena de ferro
+42,Mena de carbó
+43,Mena de diamant
+44,Mena de redstone
+45,Mena de lapislàtzuli
+46,Obsidiana
+47,Neu
+49,Porta
+59,Tanca de pomer
+60,Escales de roca
+64,Bloc de diamant
+65,Bloc d'or
+66,Bloque de ferro
+67,Escales de maó
+71,Bloc musical
+72,Tocadiscs
+73,Carbassa
+81,Síndria
+82,Llosa de pomer
+83,Llosa de roca
+84,Llosa de maó
+85,Llosa de pedra
+86,Llosa de roca sorrenca 
+91,Llosa doble
+92,Roca amb molsa
+93,Capa de nieve
+94,Cofre
+99,Argila
+101,Bloc de lapislàtzuli
+102,Maons de roca
+103,Maons de roca esquerdats
+104,Maons de roca cisellats
+105,Taula d'elaboració
+106,Forn
+108,Llosa de maó de roca
+109,Generador de monstres
+110,TNT
+112,Lava
+113,Grava
+125,Escales de pomer
+142,Bedrock
+143,Carbassa iluminada
+151,Trapa de fusta
+155,Fusta de bedoll
+156,Fusta de pi
+157,Llosa de bedoll
+158,Llosa de pi  
+159,Tanca de bedoll
+160,Tanca de pi
+161,Escales de bedoll
+165,Escales de pi
+197,Catifa
+213,Paca de heno
+214,Bloque de carbón
+215,Bloque de redstone
+216,Bloque de cuarzo
+217,Pilar de cuarzo
+218,Bloque de cuarzo cincelado
+223,Netherrack
+224,Arena de almas
+225,Piedra luminosa
+226,Mena de cuarzo del Nether
+227,Arena roja
+228,Arcilla endurecida
+245,Ladrillos del Nether
+246,Valla de ladrillos del Nether

@@ -1,0 +1,90 @@
+1,Jogar
+2,Opções
+3,Pacotes de Texturas
+4,Sair
+5,Sobre
+6,Pele
+7,Selecionar
+8,Cancelar
+9,Voltar
+10,Pele
+11,Escolher Pele
+12,Desenvolvedor:
+13,País:
+14,Doar:
+15,Versão:
+16,Tipo:
+17,Estado:
+18,Contribuidores:
+19,Agradecimentos especiais:
+20,Carregar
+21,Criar
+22,Mundos
+23,Sobrevivência
+24,Criativo
+25,Hardcore
+26,
+27,
+28,
+29,
+30,Criar Novo Mundo
+31,Renomear
+32,Excluir
+33,Deseja excluir este mundo?
+34,(Esta ação não pode ser revertida)
+35,Tem certeza?
+36,Sim
+37,Não
+38,Confirmar
+39,Modo de jogo:Sobrevivência
+40,Modo de jogo:Criativo
+41,Modo de jogo:Hardcore
+42,Estruturas:Ligado
+43,Estruturas:Desligado
+44,Baú de Bônus:Ligado
+45,Baú de Bônus:Desligado
+46,Tipo de Mundo:Padrão
+47,Tipo de Mundo:Plano
+48,Aleatório
+49,Ligado
+50,Desligado
+51,Menu do jogo
+52,Voltar ao jogo
+53,Opções...
+54,Conquistas
+55,Salvar
+56,Salvar e sair
+57,Sair
+58,Distância de visão H
+59,Distância de visão V
+60,Dificuldade:Pacífica
+61,Dificuldade:Fácil
+62,Dificuldade:Normal
+63,Dificuldade:Difícil
+64,Sons:
+65,Música:
+66,Iluminação Suave
+67,Renderização de Névoa
+68,Céu Detalhado
+69,Novo-Sprint
+70,Blocos Animados
+71,Salto Automático
+72,Botões de Ajuda
+73,Renderização GUI
+74,Modo Dev
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

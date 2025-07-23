@@ -1,0 +1,149 @@
+0,Pic de fusta
+1,Pic de pedra
+2,Pic de ferro
+3,Pic de diamant
+4,Pic d'or
+5,Espasa de fusta
+6,Espasa de pedra
+7,Espasa de ferro
+8,Espasa de diamant
+9,Espasa d'or
+10,Pala de fusta
+11,Pala de pedra
+12,Pala de ferro
+13,Pala de diamant
+14,Pala d'or
+15,Destral de fusta
+16,Destral de pedra
+17,Destral de ferro
+18,Destral de diamant
+19,Destral d'or
+20,Aixada de fusta
+21,Aixada de pedra
+22,Aixada de ferro
+23,Aixada de diamant
+24,Aixada d'or
+25,Tisores
+26,Pal
+27,Carbó
+28,Lingot de ferro
+29,Diamant
+30,Lingot d'or
+33,Argila
+34,Poma
+35,Poma dorada
+36,Llavors
+37,Blat
+38,Pa
+39,Maó
+40,Galleda
+41,Galleda d'aigua
+42,Galleda de lava
+43,Canya de sucre
+44,Rosa
+45,Dent de lleó
+46,Esqueix de pomer
+47,Full
+48,Llibre
+49,Bola de neu
+50,Bolet
+51,Bolet
+52,Bol
+53,Estofat de bolet
+56,Porta
+57,Escala
+58,Torxa
+59,Esqueix de pi
+60,Esqueix de bedoll
+61,Síndria
+62,Llavors de síndria
+63,Sucre
+64,Grans de cacau
+65,Galeta
+66,Bistec cru
+67,Bistec
+68,Lapislàtzuli
+69,Galleda de aigua
+70,Pastel
+71,Os
+72,Farina d'ossos
+73,Cuir
+78,Casc de cuir
+79,Túnica de cuir
+80,Pantalons de cuir
+81,Botes de cuir
+82,Casc de cota de malla
+83,Cuirassa de cota de malla
+84,Pantalons de cota de malla
+85,Botes de cota de malla
+86,Casc de ferro
+87,Cuirassa de ferro
+88,Pantalons de ferro
+89,Botes de ferro
+90,Casc de diamant
+91,Cuirassa de diamant
+92,Pantalons de diamant
+93,Botes de diamant
+94,Casc d'or
+95,Cuirassa d'or
+96,Pantalons d'or
+97,Botes d'or
+98,Carn podrida
+99,Panell de vidre
+100,Barres de ferro
+101,Pedernal
+102,Pólvora
+103,Pols de redstone
+104,Rellotge
+105,Brúixola
+106,Sella de muntar
+107,Rètrol
+108,Marc
+109,Test
+110,Quadre
+111,Llit
+113,Disc de música
+115,Tint gris clar
+116,Tint gris
+117,Tint cian
+118,Tint rosa
+119,Tint vermell
+120,Tint taronja
+121,Tint groc
+122,Tint llima
+123,Tint verd
+124,Tint blau clar
+125,Tint lila
+126,Tint magenta
+127,Llavors de carbassa
+128,Sílex i acer
+129,Patata
+130,Patata cuita
+131,Patata venenosa
+132,Pastanaga
+133,Disc de música
+142,Carn de porc crua
+143,Carn de porc cuita
+144,Xai cru
+145,Xai cuit
+146,Pollastre cru
+147,Pollastre rostit
+148,Ploma
+149,Generar vaca
+150,Generar ovella
+151,Generar pollastre
+152,Generar porc
+153,Generar zombi
+154,Generar creeper
+155,Generar aranya
+156,Ull d'aranya
+157,Fil
+158,Arc
+159,Fletxa
+160,Generar aranya de cova
+161,Generar d'esquelet
+165,Escut
+166,Quars
+167,Generar home porc zombi
+168,Pols de roca brillant
+169,Generar esquelet wither

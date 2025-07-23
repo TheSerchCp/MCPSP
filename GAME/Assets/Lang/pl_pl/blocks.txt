@@ -1,0 +1,105 @@
+1,Blok trawy
+2,Ziemia
+3,Kamień
+4,Woda
+5,Ruda złota
+6,Piasek
+7,Drewno dębowe
+8,Liscie dębowe
+9,Czarna wełna
+10,Szara wełna
+11,Czerwona wełna
+12,Różowa wełna
+13,Zielona wełna
+14,Limonkowa wełna
+15,Brązowa wełna
+16,Żółta wełna
+17,Niebieska wełna
+18,Jasnoniebieska wełna
+19,Fioletowa wełna
+20,Purpurowa wełna
+21,Pomarańczowa wełna
+22,Jasnoszara wełna
+23,Biała wełna
+24,Kaktus
+25,Piaskowiec
+26,Cegły
+27,Spawner
+28,Śnieg
+29,Drewno świerkowe
+30,Drewno brzozowe
+31,Lód
+32,Trzcina cukrowa
+33,Deski dębowe
+34,Biblioteczka
+35,Kostka brukowa
+36,Liscie świerkowe
+37,Liscie brzozowe
+38,Pajęczyna
+39,Szkło
+40,Ruda żelaza
+41,Ruda węgla
+42,Ruda diamentu
+43,Ruda czerwonego kamienia
+44,Ruda lazurytu
+45,Obsydian
+46,Śnieg
+47,Drzwi
+48,Płot dębowy
+49,Kamienne schody
+50,Blok diamentu
+51,Blok złota
+52,Blok żelaza
+53,Ceglane schody
+54,Blok nutowy
+55,Szafa grająca
+56,Dynia
+57,Arbuz
+58,Płyta dębowa
+59,Płyta kamienna
+60,Płyta ceglasta
+61,Płyta z brukowca
+62,Płyta z piaskowca
+63,Podwójna płyta
+64,Mszysty bruk
+65,Śnieg
+66,Skrzynia
+67,Glina
+68,Blok lazurytu
+69,Cegły kamienne
+70,Popękane cegły kamienne
+71,Rzeźbione cegły kamienne
+72,Stół rzemieślniczy
+73,Piec
+74,Płyta z kamiennych cegieł
+75,Spawner
+76,TNT
+77,Lawa
+78,Żwir
+79,Schody dębowe
+80,Skała macierzysta
+81,Latarnia dyniowa
+82,Drewniana klapa
+83,Drewno brzozowe
+84,Drewno świerkowe
+85,Płyta brzozowa
+86,Płyta świerkowa
+87,Płot brzozowy
+88,Płot świerkowy
+89,Schody brzozowe
+90,Schody świerkowe
+91,Dywan
+92,Belka siana
+93,Blok węgla
+94,Blok czerwonego kamienia
+95,Blok kwarcu
+96,Kolumna kwarcowa
+97,Rzeźbiony blok kwarcowy
+98,Netherrack
+99,Piasek dusz
+100,Kamień świecący
+101,Ruda kwarcu Netheru
+102,Czerwony piasek
+103,Stwardniała glina
+104,Cegły Netherowe
+105,Płot Netherowy

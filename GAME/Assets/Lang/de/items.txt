@@ -1,0 +1,149 @@
+1,Holzspitzhacke
+2,Steinspitzhacke
+3,Eisenspitzhacke
+4,Diamantspitzhacke
+5,Goldspitzhacke
+6,Holzschwert
+7,Steinschwert
+8,Eisenschwert
+9,Diamantschwert
+10,Goldschwert
+11,Holzschaufel
+12,Steinschaufel
+13,Eisenschaufel
+14,Diamantschaufel
+15,Goldschaufel
+16,Holzaxt
+17,Steinaxt
+18,Eisenaxt
+19,Diamantaxt
+20,Goldaxt
+21,Holzhacke
+22,Steinhacke
+23,Eisenhacke
+24,Diamanthacke
+25,Goldhacke
+26,Schere
+27,Stock
+28,Kohle
+29,Eisenbarren
+30,Diamant
+31,Goldbarren
+32,Lehm
+33,Apfel
+34,Goldener Apfel
+35,Samen
+36,Weizen
+37,Brot
+38,Ziegelstein
+39,Eimer
+40,Wassereimer
+41,Lavaeimer
+42,Zuckerrohr
+43,Rose
+44,Löwenzahn
+45,Eichensetzling
+46,Papier
+47,Buch
+48,Schneeball
+49,Pilz
+50,Pilz
+51,Schüssel
+52,Pilzsuppe
+53,Tür
+54,Leiter
+55,Fackel
+56,Fichtensetzling
+57,Birkensetzling
+58,Melone
+59,Melonensamen
+60,Zucker
+61,Kakaobohnen
+62,Keks
+63,Rohes Rindfleisch
+64,Gebratenes Steak
+65,Lapislazuli
+66,Milcheimer
+67,Kuchen
+68,Knochen
+69,Knochenmehl
+70,Leder
+71,Lederkappe
+72,Ledertunika
+73,Lederhose
+74,Lederschuhe
+75,Kettenhelm
+76,Kettenbrustplatte
+77,Kettenhose
+78,Kettenschuhe
+79,Eisenhelm
+80,Eisenbrustplatte
+81,Eisenhose
+82,Eisenschuhe
+83,Diamanthelm
+84,Diamantbrustplatte
+85,Diamanthose
+86,Diamantschuhe
+87,Goldhelm
+88,Goldbrustplatte
+89,Goldhose
+90,Goldschuhe
+91,Verrottetes Fleisch
+92,Glasscheibe
+93,Eisengitter
+94,Flint
+95,Schwarzpulver
+96,Redstone-Staub
+97,Uhr
+98,Kompass
+99,Sattel
+100,Schild
+101,Rahmen
+102,Blumentopf
+103,Gemälde
+104,Bett
+105,Musikplatte
+106,Hellgrauer Farbstoff
+107,Grauer Farbstoff
+108,Cyanfarbstoff
+109,Rosa Farbstoff
+110,Roter Farbstoff
+111,Oranger Farbstoff
+112,Gelber Farbstoff
+113,Hellgrüner Farbstoff
+114,Grüner Farbstoff
+115,Hellblauer Farbstoff
+116,Violetter Farbstoff
+117,Magenta Farbstoff
+118,Kürbissamen
+119,Feuerzeug
+120,Kartoffel
+121,Gebackene Kartoffel
+122,Giftige Kartoffel
+123,Karotte
+124,Musikplatte
+125,Rohes Schweinefleisch
+126,Gebratenes Schweinefleisch
+127,Rohes Lammfleisch
+128,Gebratenes Lammfleisch
+129,Rohes Hähnchen
+130,Gebratenes Hähnchen
+131,Feder
+132,Spawn-Ei Kuh
+133,Spawn-Ei Schaf
+134,Spawn-Ei Huhn
+135,Spawn-Ei Schwein
+136,Spawn-Ei Zombie
+137,Spawn-Ei Creeper
+138,Spawn-Ei Spinne
+139,Spinnenauge
+140,Faden
+141,Bogen
+142,Pfeil
+143,Spawn-Ei Höhlenspinne
+144,Spawn-Ei Skelett
+145,Schild
+146,Quarz
+147,Spawn-Ei Zombie Pigman
+148,Glowstone-Staub
+149,Spawn-Ei Wither-Skelett

@@ -1,0 +1,90 @@
+1,Jogar
+2,Opções
+3,Pacotes de Textura
+4,Sair
+5,Sobre
+6,Skin
+7,Selecionar
+8,Cancelar
+9,Voltar
+10,Skin
+11,Escolher Skin
+12,Desenvolvedor:
+13,País:
+14,Doar:
+15,Versão:
+16,Tipo:
+17,Estágio:
+18,Contribuidores:
+19,Agradecimentos Especiais:
+20,Carregar
+21,Criar
+22,Mundos
+23,Sobrevivênvia
+24,Criativo
+25,Hardcore
+26,
+27,
+28,
+29,
+30,Criar Novo Mundo
+31,Renomear
+32,Deletar
+33,Você deseja deletar esse mundo?
+34,(Isso não pode ser revertido)
+35,Você tem certeza?
+36,Sim
+37,Não
+38,Confirmar
+39,Modo: Sobrevivência
+40,Modo: Criativo
+41,Modo: Hardcore
+42,Estruturas: On
+43,Estruturas Off
+44,Baú Bônus: On
+45,Baú Bônus: Off
+46,Tipo de Mundo: Normal
+47,Tipo de Mundo: Plano
+48,Aleatória
+49,On
+50,Off
+51,Menu de Jogo
+52,Voltar ao Jogo
+53,Opções...
+54,Conquistas
+55,Salvar
+56,Salvar e sair
+57,Sair
+58,Distância da Visão H
+59,Distância da Visão V
+60,Dificuldade: Pacífico
+61,Dificuldade: Fácil
+62,Dificuldade: Normal
+63,Dificuldade: Difícil
+64,Sons:
+65,Música:
+66,Iluminação Suave
+67,Renderização da Neblina
+68,Céu Detalhado
+69,Novo Sprint
+70,Blocos Animados
+71,Pulo Automático
+72,Botões de Ajuda
+73,Renderização da GUI
+74,Modo Dev
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

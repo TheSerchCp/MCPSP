@@ -1,0 +1,149 @@
+1,Pioche en bois
+2,Pioche en pierre
+3,Pioche en fer
+4,Pioche en diamant
+5,Pioche en or
+6,Épée en bois
+7,Épée en pierre
+8,Épée en fer
+9,Épée en diamant
+10,Épée en or
+11,Pelle en bois
+12,Pelle en pierre
+13,Pelle en fer
+14,Pelle en diamant
+15,Pelle en or
+16,Hache en bois
+17,Hache en pierre
+18,Hache en fer
+19,Hache en diamant
+20,Hache en or
+21,Houe en bois
+22,Houe en pierre
+23,Houe en fer
+24,Houe en diamant
+25,Houe en or
+26,Cisailles
+27,Bâton
+28,Charbon
+29,Lingot de fer
+30,Diamant
+31,Lingot d'or
+32,Argile
+33,Pomme
+34,Pomme dorée
+35,Graines
+36,Blé
+37,Pain
+38,Brique
+39,Seau
+40,Seau d'eau
+41,Seau de lave
+42,Canne à sucre
+43,Rose
+44,Pissenlit
+45,Pousse de chêne
+46,Papier
+47,Livre
+48,Boule de neige
+49,Champignon
+50,Champignon
+51,Bol
+52,Soupe aux champignons
+53,Porte
+54,Échelle
+55,Torche
+56,Pousse de sapin
+57,Pousse de bouleau
+58,Pastèque
+59,Graines de pastèque
+60,Sucre
+61,Fèves de cacao
+62,Biscuit
+63,Bœuf cru
+64,Steak
+65,Lapis-lazuli
+66,Seau de lait
+67,Gâteau
+68,Os
+69,Poudre d'os
+70,Cuir
+71,Casquette en cuir
+72,Tunique en cuir
+73,Pantalon en cuir
+74,Bottes en cuir
+75,Casque en cotte de mailles
+76,Plastron en cotte de mailles
+77,Pantalon en cotte de mailles
+78,Bottes en cotte de mailles
+79,Casque en fer
+80,Plastron en fer
+81,Pantalon en fer
+82,Bottes en fer
+83,Casque en diamant
+84,Plastron en diamant
+85,Pantalon en diamant
+86,Bottes en diamant
+87,Casque en or
+88,Plastron en or
+89,Pantalon en or
+90,Bottes en or
+91,Chair putréfiée
+92,Panneau de verre
+93,Barres de fer
+94,Silex
+95,Poudre à canon
+96,Poudre de redstone
+97,Horloge
+98,Boussole
+99,Selle
+100,Pancarte
+101,Cadre
+102,Pot de fleurs
+103,Tableau
+104,Lit
+105,Disque de musique
+106,Teinture gris clair
+107,Teinture grise
+108,Teinture cyan
+109,Teinture rose
+110,Teinture rouge
+111,Teinture orange
+112,Teinture jaune
+113,Teinture vert clair
+114,Teinture verte
+115,Teinture bleu clair
+116,Teinture violette
+117,Teinture magenta
+118,Graines de citrouille
+119,Briquet
+120,Pomme de terre
+121,Pomme de terre cuite
+122,Pomme de terre empoisonnée
+123,Carotte
+124,Disque de musique
+125,Côtelette de porc crue
+126,Côtelette de porc cuite
+127,Mouton cru
+128,Mouton cuit
+129,Poulet cru
+130,Poulet cuit
+131,Plume
+132,Œuf d'apparition de vache
+133,Œuf d'apparition de mouton
+134,Œuf d'apparition de poulet
+135,Œuf d'apparition de cochon
+136,Œuf d'apparition de zombie
+137,Œuf d'apparition de creeper
+138,Œuf d'apparition d'araignée
+139,Œil d'araignée
+140,Fil
+141,Arc
+142,Flèche
+143,Œuf d'apparition d'araignée des cavernes
+144,Œuf d'apparition de squelette
+145,Bouclier
+146,Quartz
+147,Œuf d'apparition de zombie cochon
+148,Poudre de pierre lumineuse
+149,Œuf d'apparition de squelette wither

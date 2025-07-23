@@ -1,0 +1,149 @@
+1,Picum lignum
+2,Picum lapis
+3,Picum ferrum
+4,Picum diamantum
+5,Picum aurum
+6,Gladius lignum
+7,Gladius lapis
+8,Gladius ferrum
+9,Gladius diamantum
+10,Gladius aurum
+11,Arehus lignum
+12,Arehus lapis
+13,Arehus ferrum
+14,Arehus diamantum
+15,Arehus aurum
+16,Asecum lignum
+17,Asecum lapis
+18,Asecum ferrum
+19,Asecum diamantum
+20,Asecum aurum
+21,Serrum lignum
+22,Serrum lapis
+23,Serrum ferrum
+24,Serrum diamantum
+25,Serrum aurum
+26,Forfices
+27,Virga
+28,Carbo
+29,Lingula ferrum
+30,Diamantum
+31,Lingula aurum
+32,Argilla
+33,Malum
+34,Malum aureum
+35,Semina
+36,Frumentum
+37,Panis
+38,Lateris
+39,Situla
+40,Situla aqua
+41,Situla lava
+42,Canna saccharum
+43,Rosa
+44,Dentes leonis
+45,Germinis robur
+46,Papelum
+47,Liber
+48,Globum nix
+49,Fungus
+50,Fungus
+51,Caldarium
+52,Pultem fungorum
+53,Ianuam
+54,Scala
+55,Torcha
+56,Germinis abies
+57,Germinis betula
+58,Citrullus
+59,Semina citrulli
+60,Saccharum
+61,Granum cacao
+62,Crustum
+63,Carne vitulina cruda
+64,Flesha
+65,Lapis lazuli
+66,Situla lactis
+67,Placenta
+68,Os
+69,Pulvis ossis
+70,Corium
+71,Caput corium
+72,Tunica corium
+73,Bracae corium
+74,Calcei corium
+75,Cassidis lorica
+76,Pectorale lorica
+77,Bracae lorica
+78,Calcei lorica
+79,Cassidis ferrum
+80,Pectorale ferrum
+81,Bracae ferrum
+82,Calcei ferrum
+83,Cassidis diamantum
+84,Pectorale diamantum
+85,Bracae diamantum
+86,Calcei diamantum
+87,Cassidis aurum
+88,Pectorale aurum
+89,Bracae aurum
+90,Calcei aurum
+91,Caro putrida
+92,Tabula vitrum
+93,Ferro vectes
+94,Silex
+95,Pulvis
+96,Pulvis redstone
+97,Horologium
+98,Compasso
+99,Equus
+100,Tabella
+101,Carmen
+102,Vas
+103,Imago
+104,Lectus
+105,Discus musica
+106,Tintus griseus clarus
+107,Tintus griseus
+108,Tintus cyanus
+109,Tintus roseus
+110,Tintus ruber
+111,Tintus aurantiacus
+112,Tintus flavus
+113,Tintus viridis limus
+114,Tintus viridis
+115,Tintus caeruleus clarus
+116,Tintus purpureus
+117,Tintus magenta
+118,Semina cucurbita
+119,Foco
+120,Solanum tuberosum
+121,Solanum tuberosum cocta
+122,Solanum tuberosum venenatum
+123,Daucus carota
+124,Discus musica
+125,Latus porcina cruda
+126,Latus porcina cocta
+127,Agnus cruda
+128,Agnus cocta
+129,Gallus cruda
+130,Gallus cocta
+131,Penna
+132,Ovum bos
+133,Ovum ovis
+134,Ovum gallus
+135,Ovum porcus
+136,Ovum zombi
+137,Ovum creeper
+138,Ovum aranea
+139,Oculus aranea
+140,Filum
+141,Arcus
+142,Sagitta
+143,Ovum aranea cavum
+144,Ovum os
+145,Scutum
+146,Quartzum
+147,Ovum pigman zombium
+148,Pulvis lapis lucidus
+149,Ovum os wither

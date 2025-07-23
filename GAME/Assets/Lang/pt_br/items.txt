@@ -1,0 +1,149 @@
+1,Picareta de Madeira
+2,Picareta de Pedra
+3,Picareta de Ferro
+4,Picareta de Diamante
+5,Picareta de Ouro
+6,Espada de Madeira
+7,Espada de Pedra
+8,Espada de Ferro
+9,Espada de Diamante
+10,Espada de Ouro
+11,Pá de Madeira
+12,Pá de Pedra
+13,Pá de Ferro
+14,Pá de Diamante
+15,Pá de Ouro
+16,Machado de Madeira
+17,Machado de Pedra
+18,Machado de Ferro
+19,Machado de Diamante
+20,Machado de Ouro
+21,Enxada de Madeira
+22,Enxada de Pedra
+23,Enxada de Ferro
+24,Enxada de Diamante
+25,Enxada de Ouro
+26,Tesoura
+27,Graveto
+28,Carvão
+29,Barra de Ferro
+30,Diamante
+31,Barra de Ouro
+32,Argila
+33,Maçã
+34,Maçã Dourada
+35,Sementes
+36,Trigo
+37,Pão
+38,Tijolo
+39,Balde
+40,Balde de Água
+41,Balde de Lava
+42,Cana-de-Açúcar
+43,Rosa
+44,Dente-de-Leão
+45,Muda de Carvalho
+46,Papel
+47,Livro
+48,Bola de Neve
+49,Cogumelo
+50,Cogumelo
+51,Tigela
+52,Sopa de Cogumelo
+53,Porta
+54,Escada
+55,Tocha
+56,Muda de Pinheiro
+57,Muda de Bétula
+58,Melancia
+59,Sementes de Melancia
+60,Açúcar
+61,Cacau
+62,Biscoito
+63,Bife Cru
+64,Bife
+65,Lápis-Lázuli
+66,Balde de Leite
+67,Bolo
+68,Osso
+69,Farinha de Osso
+70,Couro
+71,Capacete de Couro
+72,Peitoral de Couro
+73,Calça de Couro
+74,Botas de Couro
+75,Capacete de Malha
+76,Peitoral de Malha
+77,Calça de Malha
+78,Botas de Malha
+79,Capacete de Ferro
+80,Peitoral de Ferro
+81,Calça de Ferro
+82,Botas de Ferro
+83,Capacete de Diamante
+84,Peitoral de Diamante
+85,Calça de Diamante
+86,Botas de Diamante
+87,Capacete de Ouro
+88,Peitoral de Ouro
+89,Calça de Ouro
+90,Botas de Ouro
+91,Carne Podre
+92,Painel de Vidro
+93,Barras de Ferro
+94,Pederneira
+95,Pólvora
+96,Pó de Redstone
+97,Relógio
+98,Bússola
+99,Sela
+100,Placa
+101,Moldura
+102,Vaso de Flor
+103,Pintura
+104,Cama
+105,Disco de Música
+106,Corante Cinza-Claro
+107,Corante Cinza
+108,Corante Ciano
+109,Corante Rosa
+110,Corante Vermelho
+111,Corante Laranja
+112,Corante Amarelo
+113,Corante Limão
+114,Corante Verde
+115,Corante Azul-Claeo
+116,Corante Roxo
+117,Corante Magenta
+118,Sementes de Abóbora
+119,Pederneira
+120,Batata
+121,Batata Assada
+122,Batata Venenosa
+123,Cenoura
+124,Disco de Música
+125,Carne de Porco Cru
+126,Carne de Porco Assado
+127,Carne de Carneiro Cru
+128,Carne de Carneiro Assado
+129,Frango Cru
+130,Frango Assado
+131,Pena
+132,Ovo Gerador de Vaca
+133,Ovo Gerador de Ovelha
+134,Ovo Gerador de Galinha
+135,Ovo Gerador de Porco
+136,Ovo Gerador de Zumbi
+137,Ovo Gerador de Creeper
+138,Ovo gerador de Aranha
+139,Olho de Aranha
+140,Linha
+141,Arco
+142,Flecha
+143,Ovo Gerador de Aranha da Caverna
+144,Ovo Gerador de Esqueleto
+145,Escudo
+146,Quartzo
+147,Ovo Gerador de Porco-Zumbi
+148,Pó de Pedra Luminosa
+149,Ovo Gerador de Esqueleto Wither

@@ -1,0 +1,105 @@
+1,Bloque de hierba
+2,Tierra
+3,Piedra
+4,Agua
+5,Mena de oro
+6,Arena
+7,Madera de roble
+8,Hojas de roble
+9,Lana negra
+10,Lana gris
+11,Lana roja
+12,Lana rosa
+13,Lana verde
+14,Lana verde lima
+15,Lana marrón
+16,Lana amarilla
+17,Lana azul
+18,Lana azul claro
+19,Lana morada
+20,Lana magenta
+21,Lana naranja
+22,Lana gris claro
+23,Lana blanca
+24,Cactus
+25,Arenisca
+26,Ladrillos
+27,Generador de monstruos
+28,Nieve
+29,Madera de abeto
+30,Madera de abedul
+31,Hielo
+32,Caña de azúcar
+33,Tablas de roble
+34,Estantería
+35,Roca
+36,Hojas de abeto
+37,Hojas de abedul
+38,Telaraña
+39,Cristal
+40,Mena de hierro
+41,Mena de carbón
+42,Mena de diamante
+43,Mena de redstone
+44,Mena de lapislázuli
+45,Obsidiana
+46,Nieve
+47,Puerta
+48,Valla de roble
+49,Escaleras de piedra
+50,Bloque de diamante
+51,Bloque de oro
+52,Bloque de hierro
+53,Escaleras de ladrillos
+54,Bloque musical
+55,Tocadiscos
+56,Calabaza
+57,Sandía
+58,Losa de roble
+59,Losa de piedra
+60,Losa de ladrillo
+61,Losa de adoquín
+62,Losa de arenisca
+63,Losa doble
+64,Adoquín musgoso
+65,Capa de nieve
+66,Cofre
+67,Arcilla
+68,Bloque de lapislázuli
+69,Ladrillos de piedra
+70,Ladrillos de piedra agrietados
+71,Ladrillos de piedra cincelados
+72,Mesa de trabajo
+73,Horno
+74,Losa de ladrillo de piedra
+75,Generador de monstruos
+76,TNT
+77,Lava
+78,Grava
+79,Escaleras de roble
+80,Roca madre
+81,Calabaza iluminada
+82,Trampilla de madera
+83,Madera de abedul
+84,Madera de abeto
+85,Losa de abedul
+86,Losa de abeto
+87,Valla de abedul
+88,Valla de abeto
+89,Escaleras de abedul
+90,Escaleras de abeto
+91,Alfombra
+92,Paca de heno
+93,Bloque de carbón
+94,Bloque de redstone
+95,Bloque de cuarzo
+96,Pilar de cuarzo
+97,Bloque de cuarzo cincelado
+98,Netherrack
+99,Arena de almas
+100,Piedra luminosa
+101,Mena de cuarzo del Nether
+102,Arena roja
+103,Arcilla endurecida
+104,Ladrillos del Nether
+105,Valla de ladrillos del Nether

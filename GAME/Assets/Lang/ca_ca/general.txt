@@ -1,0 +1,90 @@
+1,Jugar
+2,Opcions
+3,Paquets de recursos
+4,Sortir
+5,Sobre
+6,Aparença
+7,Seleccionar
+8,Cancel·lar
+9,Enrrere
+10,Aparença
+11,Escollir Aparença
+12,Desenvolupador:
+13,Pais:
+14,Donar:
+15,Versió:
+16,Tipus:
+17,Etapa:
+18,Contribuents:
+19,Agraïments Especials:
+20,Carregar
+21,Crear
+22,Mons
+23,Supervivència
+24,Creatiu
+25,Extrem
+26,
+27,
+28,
+29,
+30,Crear un nou món
+31,Anomenar
+32,Eliminar
+33,¿Vols borrar aquest món?
+34,(Això no es pot revertir)
+35,¿Estàs segur?
+36,Si
+37,No
+38,Confirmar
+39,Mode de joc: Supervivència
+40,Mode de joc: Creatiu
+41,Mode de joc: Extrem
+42,Estructures: Activades
+43,Estructures: Desactivades
+44,Cofre de Bonificació: Activat
+45,Cofre de Bonificació: Desactivat
+46,Tipus de món: Predeterminat
+47,Tipus de món: Pla
+48,Aleatori
+49,Activat
+50,Desactivat
+51,Menú del juego
+52,Tornar al joc
+53,Opcions.., 
+54,Assoliments
+55,Desar
+56,Desar i sortir
+57,Sortir
+58,Distància de visió H
+59,Distància de visió V
+60,Dificultat: Pacífica
+61,Dificultat: Fàcil
+62,Dificultat: Normal
+63,Dificultat: Difícil
+64,Sons:
+65,Música:
+66,Il·luminació suau
+67,Renderitzat de boira
+68,Cel detallat
+69,Nou-Sprint
+70,Blocs Animats
+71,Salt automàtic
+72,Botones de Ayuda
+73,Renderitzat de GUI
+74,Mode desenvolupador
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

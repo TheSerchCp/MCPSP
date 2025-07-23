@@ -1,0 +1,90 @@
+1,Spiel starten
+2,Optionen
+3,Texturenpakete
+4,Beenden
+5,Über
+6,Aussehen
+7,Auswählen
+8,Abbrechen
+9,Zurück
+10,Aussehen
+11,Aussehen wählen
+12,Entwickler:
+13,Land:
+14,Spenden:
+15,Version:
+16,Typ:
+17,Stufe:
+18,Mitwirkende:
+19,Besonderer Dank:
+20,Laden
+21,Erstellen
+22,Welten
+23,Überleben
+24,Kreativ
+25,Hardcore
+26,
+27,
+28,
+29,
+30,Neue Welt erstellen
+31,Umbenennen
+32,Löschen
+33,Willst du diese Welt löschen?
+34,(Dies kann nicht rückgängig gemacht werden)
+35,Bist du sicher?
+36,Ja
+37,Nein
+38,Bestätigen
+39,Spielmodus: Überleben
+40,Spielmodus: Kreativ
+41,Spielmodus: Hardcore
+42,Strukturen: Aktiviert
+43,Strukturen: Deaktiviert
+44,Bonus-Truhe: Aktiviert
+45,Bonus-Truhe: Deaktiviert
+46,Welttyp: Standard
+47,Welttyp: Flach
+48,Zufällig
+49,Aktiviert
+50,Deaktiviert
+51,Spielmenü
+52,Zum Spiel zurückkehren
+53,Optionen,,,
+54,Erfolge
+55,Speichern
+56,Speichern und beenden
+57,Beenden
+58,Sichtweite H
+59,Sichtweite V
+60,Schwierigkeitsgrad: Friedlich
+61,Schwierigkeitsgrad: Einfach
+62,Schwierigkeitsgrad: Normal
+63,Schwierigkeitsgrad: Schwer
+64,Töne:
+65,Musik:
+66,Sanfte Beleuchtung
+67,Nebel-Rendering
+68,Detaillierter Himmel
+69,Neues Sprinten
+70,Animierte Blöcke
+71,Auto-Sprung
+72,Hilfetasten
+73,GUI-Rendering
+74,Entwicklermodus
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

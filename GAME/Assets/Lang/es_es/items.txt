@@ -1,0 +1,149 @@
+1,Pico de madera
+2,Pico de piedra
+3,Pico de hierro
+4,Pico de diamante
+5,Pico de oro
+6,Espada de madera
+7,Espada de piedra
+8,Espada de hierro
+9,Espada de diamante
+10,Espada de oro
+11,Pala de madera
+12,Pala de piedra
+13,Pala de hierro
+14,Pala de diamante
+15,Pala de oro
+16,Hacha de madera
+17,Hacha de piedra
+18,Hacha de hierro
+19,Hacha de diamante
+20,Hacha de oro
+21,Azada de madera
+22,Azada de piedra
+23,Azada de hierro
+24,Azada de diamante
+25,Azada de oro
+26,Tijeras
+27,Palo
+28,Carbón
+29,Lingote de hierro
+30,Diamante
+31,Lingote de oro
+32,Arcilla
+33,Manzana
+34,Manzana dorada
+35,Semillas
+36,Trigo
+37,Pan
+38,Ladrillo
+39,Cubo
+40,Cubo con agua
+41,Cubo con lava
+42,Caña de azúcar
+43,Rosa
+44,Diente de león
+45,Brote de roble
+46,Papel
+47,Libro
+48,Bola de nieve
+49,Champiñón
+50,Champiñón
+51,Cuenco
+52,Estofado de champiñones
+53,Puerta
+54,Escalera
+55,Antorcha
+56,Brote de abeto
+57,Brote de abedul
+58,Sandía
+59,Semillas de sandía
+60,Azúcar
+61,Granos de cacao
+62,Galleta
+63,Ternera cruda
+64,Filete
+65,Lapislázuli
+66,Cubo de leche
+67,Pastel
+68,Hueso
+69,Polvo de hueso
+70,Cuero
+71,Gorro de cuero
+72,Túnica de cuero
+73,Pantalones de cuero
+74,Botas de cuero
+75,Casco de cota de malla
+76,Pechera de cota de malla
+77,Pantalones de cota de malla
+78,Botas de cota de malla
+79,Casco de hierro
+80,Pechera de hierro
+81,Pantalones de hierro
+82,Botas de hierro
+83,Casco de diamante
+84,Pechera de diamante
+85,Pantalones de diamante
+86,Botas de diamante
+87,Casco de oro
+88,Pechera de oro
+89,Pantalones de oro
+90,Botas de oro
+91,Carne podrida
+92,Panel de cristal
+93,Barras de hierro
+94,Pedernal
+95,Pólvora
+96,Polvo de redstone
+97,Reloj
+98,Brújula
+99,Montura
+100,Letrero
+101,Marco
+102,Maceta
+103,Cuadro
+104,Cama
+105,Disco de música
+106,Tinte gris claro
+107,Tinte gris
+108,Tinte cian
+109,Tinte rosa
+110,Tinte rojo
+111,Tinte naranja
+112,Tinte amarillo
+113,Tinte verde lima
+114,Tinte verde
+115,Tinte azul claro
+116,Tinte morado
+117,Tinte magenta
+118,Semillas de calabaza
+119,Mechero
+120,Patata
+121,Patata cocida
+122,Patata venenosa
+123,Zanahoria
+124,Disco de música
+125,Chuleta de cerdo cruda
+126,Chuleta de cerdo cocinada
+127,Cordero crudo
+128,Cordero cocinado
+129,Pollo crudo
+130,Pollo cocinado
+131,Pluma
+132,Huevo de aparición de vaca
+133,Huevo de aparición de oveja
+134,Huevo de aparición de pollo
+135,Huevo de aparición de cerdo
+136,Huevo de aparición de zombi
+137,Huevo de aparición de creeper
+138,Huevo de aparición de araña
+139,Ojo de araña
+140,Hilo
+141,Arco
+142,Flecha
+143,Huevo de aparición de araña de cueva
+144,Huevo de aparición de esqueleto
+145,Escudo
+146,Cuarzo
+147,Huevo de aparición de hombre cerdo zombi
+148,Polvo de piedra luminosa
+149,Huevo de aparición de esqueleto wither

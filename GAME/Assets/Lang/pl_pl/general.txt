@@ -1,0 +1,90 @@
+1,Graj
+2,Ustawienia
+3,Paczki tekstur
+4,Wyjdź
+5,O grze
+6,Skórka
+7,Wybierz
+8,Anuluj
+9,Wstecz
+10,Skórka
+11,Wybierz skórkę
+12,Deweloper:
+13,Kraj:
+14,Dotacja:
+15,Wersja:
+16,Rodzaj:
+17,Etap:
+18,Współtwórcy:
+19,Specjalne podziękowania:
+20,Załaduj
+21,Stwórz
+22,Światy
+23,Przetrwanie
+24,Kreatywny
+25,Hardcore
+26,
+27,
+28,
+29,
+30,Stwórz nowy świat
+31,Zmień nazwę
+32,Usuń
+33,Czy na pewno chcesz usunąć ten świat?
+34,(Nie można tego cofnąć)
+35,Jesteś pewien?
+36,Tak
+37,Nie
+38,Potwierdź
+39,Tryb gry: Przetrwanie
+40,Tryb gry: Kreatywny
+41,Tryb gry: Hardcore
+42,Struktury: Włączone
+43,Struktury: Wyłączone
+44,Skrzynia bonusowa: Włączona
+45,Skrzynia bonusowa: Wyłączona
+46,Typ świata: Domyślny
+47,Typ świata: Płaski
+48,Losowo
+49,Włączone
+50,Wyłączone
+51,Menu gry
+52,Wróć do gry
+53,Ustawienia...
+54,Osiągnięcia
+55,Zapisz
+56,Zapisz i wyjdź
+57,Wyjdź
+58,H Zasięg widzenia
+59,V Zasięg widzenia
+60,Trudność: Pokojowa
+61,Trudność: Łatwa
+62,Trudność: Normalna
+63,Trudność: Trudna
+64,Dźwięki:
+65,Muzyka:
+66,Płynne oświetlenie
+67,Renderowanie mgły
+68,Szczegółowe niebo
+69,Nowy sprint
+70,Animowane bloki
+71,Auto-skakanie
+72,Przyciski pomocy
+73,Renderowanie GUI
+74,Tryb deweloperski
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

@@ -1,0 +1,90 @@
+1,Jugar
+2,Opciones
+3,Paquetes de Texturas
+4,Salir
+5,Acerca de
+6,Apariencia
+7,Seleccionar
+8,Cancelar
+9,Atrás
+10,Apariencia
+11,Elegir Apariencia
+12,Desarrollador:
+13,País:
+14,Donar:
+15,Versión:
+16,Tipo:
+17,Etapa:
+18,Contribuyentes:
+19,Agradecimientos Especiales:
+20,Cargar
+21,Crear
+22,Mundos
+23,Supervivencia
+24,Creativo
+25,Extremo
+26,
+27,
+28,
+29,
+30,Crear Nuevo Mundo
+31,Renombrar
+32,Eliminar
+33,¿Quieres eliminar este mundo?
+34,(Esto no se puede revertir)
+35,¿Estás seguro?
+36,Sí
+37,No
+38,Confirmar
+39,Modo de juego: Supervivencia
+40,Modo de juego: Creativo
+41,Modo de juego: Extremo
+42,Estructuras: Activadas
+43,Estructuras: Desactivadas
+44,Cofre de Bonificación: Activado
+45,Cofre de Bonificación: Desactivado
+46,Tipo de Mundo: Predeterminado
+47,Tipo de Mundo: Plano
+48,Aleatorio
+49,Activado
+50,Desactivado
+51,Menú del juego
+52,Volver al juego
+53,Opciones.., 
+54,Logros
+55,Guardar
+56,Guardar y salir
+57,Salir
+58,Distancia de visión H
+59,Distancia de visión V
+60,Dificultad: Pacífica
+61,Dificultad: Fácil
+62,Dificultad: Normal
+63,Dificultad: Difícil
+64,Sonidos:
+65,Música:
+66,Iluminación Suave
+67,Renderizado de Niebla
+68,Cielo Detallado
+69,Nuevo-Sprint
+70,Bloques Animados
+71,Auto-Salto
+72,Botones de Ayuda
+73,Renderizado de GUI
+74,Modo Desarrollador
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

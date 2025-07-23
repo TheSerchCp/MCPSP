@@ -1,0 +1,149 @@
+1,Picareta de madeira
+2,Picareta de pedra
+3,Picareta de ferro
+4,Picareta de diamante
+5,Picareta de ouro
+6,Espada de madeira
+7,Espada de pedra
+8,Espada de ferro
+9,Espada de diamante
+10,Espada de ouro
+11,Pá de madeira
+12,Pá de pedra
+13,Pá de ferro
+14,Pá de diamante
+15,Pá de ouro
+16,Machado de madeira
+17,Machado de pedra
+18,Machado de ferro
+19,Machado de diamante
+20,Machado de ouro
+21,Enxada de madeira
+22,Enxada de pedra
+23,Enxada de ferro
+24,Enxada de diamante
+25,Enxada de ouro
+26,Tesouras
+27,Pau
+28,Carvão
+29,Lingote de ferro
+30,Diamante
+31,Lingote de ouro
+32,Argila
+33,Maçã
+34,Maçã dourada
+35,Sementes
+36,Trigo
+37,Pão
+38,Tijolo
+39,Balde
+40,Balde com água
+41,Balde com lava
+42,Cana-de-açúcar
+43,Rosa
+44,Dente-de-leão
+45,Muda de carvalho
+46,Papel
+47,Livro
+48,Bola de neve
+49,Cogumelo
+50,Cogumelo
+51,Tigela
+52,Ensopado de cogumelos
+53,Porta
+54,Escada
+55,Tocha
+56,Muda de abeto
+57,Muda de bétula
+58,Melancia
+59,Sementes de melancia
+60,Açúcar
+61,Sementes de cacau
+62,Bolacha
+63,Bife cru
+64,Bife grelhado
+65,Lápis-lazúli
+66,Balde de leite
+67,Bolo
+68,Osso
+69,Farinha de osso
+70,Couro
+71,Gorro de couro
+72,Túnica de couro
+73,Calças de couro
+74,Botas de couro
+75,Capacete de cota de malha
+76,Peitoral de cota de malha
+77,Calças de cota de malha
+78,Botas de cota de malha
+79,Capacete de ferro
+80,Peitoral de ferro
+81,Calças de ferro
+82,Botas de ferro
+83,Capacete de diamante
+84,Peitoral de diamante
+85,Calças de diamante
+86,Botas de diamante
+87,Capacete de ouro
+88,Peitoral de ouro
+89,Calças de ouro
+90,Botas de ouro
+91,Carne podre
+92,Painel de vidro
+93,Grades de ferro
+94,Sílex
+95,Pólvora
+96,Pó de redstone
+97,Relógio
+98,Bússola
+99,Sela
+100,Placa
+101,Moldura
+102,Vaso de flores
+103,Quadro
+104,Cama
+105,Disco de música
+106,Corante cinza-claro
+107,Corante cinza
+108,Corante ciano
+109,Corante rosa
+110,Corante vermelho
+111,Corante laranja
+112,Corante amarelo
+113,Corante verde-limão
+114,Corante verde
+115,Corante azul-claro
+116,Corante roxo
+117,Corante magenta
+118,Sementes de abóbora
+119,Isqueiro
+120,Batata
+121,Batata assada
+122,Batata venenosa
+123,Cenoura
+124,Disco de música
+125,Costeleta de porco crua
+126,Costeleta de porco grelhada
+127,Carne de carneiro crua
+128,Carne de carneiro assada
+129,Frango cru
+130,Frango assado
+131,Pena
+132,Ovo de geração de vaca
+133,Ovo de geração de ovelha
+134,Ovo de geração de galinha
+135,Ovo de geração de porco
+136,Ovo de geração de zumbi
+137,Ovo de geração de Creeper
+138,Ovo de geração de aranha
+139,Olho de aranha
+140,Linha
+141,Arco
+142,Flecha
+143,Ovo de geração de aranha de caverna
+144,Ovo de geração de esqueleto
+145,Escudo
+146,Quartzo
+147,Ovo de geração de zumbi pigman
+148,Pó de pedra luminosa
+149,Ovo de geração de esqueleto Wither

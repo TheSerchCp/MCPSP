@@ -1,0 +1,14 @@
+# Ignorar archivos de compilación
+*.o
+*.elf
+*.pbp
+*.prx
+
+# Ignorar archivos específicos
+compile.bat
+compile (custom).bat
+/GAME/Ejecutar.bat
+GAME/Log.txt
+
+# Ignorar carpetas
+# _GAME/Save/

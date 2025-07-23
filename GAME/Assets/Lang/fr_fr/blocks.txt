@@ -1,0 +1,105 @@
+1,Bloc d'herbe
+2,Terre
+3,Pierre
+4,Eau
+5,Minerai d'or
+6,Sable
+7,Bois de chêne
+8,Feuilles de chêne
+9,Laine noire
+10,Laine grise
+11,Laine rouge
+12,Laine rose
+13,Laine verte
+14,Laine vert clair
+15,Laine marron
+16,Laine jaune
+17,Laine bleue
+18,Laine bleu clair
+19,Laine violette
+20,Laine magenta
+21,Laine orange
+22,Laine gris clair
+23,Laine blanche
+24,Cactus
+25,Grès
+26,Briques
+27,Générateur de monstres
+28,Neige
+29,Bois de sapin
+30,Bois de bouleau
+31,Glace
+32,Canne à sucre
+33,Planches de chêne
+34,Bibliothèque
+35,Roche
+36,Feuilles de sapin
+37,Feuilles de bouleau
+38,Toile d'araignée
+39,Verre
+40,Minerai de fer
+41,Minerai de charbon
+42,Minerai de diamant
+43,Minerai de redstone
+44,Minerai de lapis-lazuli
+45,Obsidienne
+46,Neige
+47,Porte
+48,Clôture en chêne
+49,Escaliers en pierre
+50,Bloc de diamant
+51,Bloc d'or
+52,Bloc de fer
+53,Escaliers en briques
+54,Bloc musical
+55,Jukebox
+56,Citrouille
+57,Pastèque
+58,Dalle de chêne
+59,Dalle de pierre
+60,Dalle de brique
+61,Dalle de pavés
+62,Dalle de grès
+63,Dalle double
+64,Pavé moussu
+65,Couche de neige
+66,Coffre
+67,Argile
+68,Bloc de lapis-lazuli
+69,Briques de pierre
+70,Briques de pierre fissurées
+71,Briques de pierre ciselées
+72,Table de craft
+73,Four
+74,Dalle de brique de pierre
+75,Générateur de monstres
+76,TNT
+77,Lave
+78,Gravier
+79,Escaliers en chêne
+80,Roche-mère
+81,Citrouille lumineuse
+82,Trappe en bois
+83,Bois de bouleau
+84,Bois de sapin
+85,Dalle de bouleau
+86,Dalle de sapin
+87,Clôture en bouleau
+88,Clôture en sapin
+89,Escaliers en bouleau
+90,Escaliers en sapin
+91,Tapis
+92,Botte de foin
+93,Bloc de charbon
+94,Bloc de redstone
+95,Bloc de quartz
+96,Pilier de quartz
+97,Bloc de quartz ciselé
+98,Netherrack
+99,Sable des âmes
+100,Pierre lumineuse
+101,Minerai de quartz du Nether
+102,Sable rouge
+103,Argile durcie
+104,Briques du Nether
+105,Clôture en briques du Nether

@@ -1,0 +1,149 @@
+1,Wooden Pickaxe
+2,Stone Pickaxe
+3,Iron Pickaxe
+4,Diamond Pickaxe
+5,Golden Pickaxe
+6,Wooden Sword
+7,Stone Sword
+8,Iron Sword
+9,Diamond Sword
+10,Golden Sword
+11,Wooden Shovel
+12,Stone Shovel
+13,Iron Shovel
+14,Diamond Shovel
+15,Golden Shovel
+16,Wooden Axe
+17,Stone Axe
+18,Iron Axe
+19,Diamond Axe
+20,Golden Axe
+21,Wooden Hoe
+22,Stone Hoe
+23,Iron Hoe
+24,Diamond Hoe
+25,Golden Hoe
+26,Shears
+27,Stick
+28,Coal
+29,Iron Ingot
+30,Diamond
+31,Gold Ingot
+32,Clay
+33,Apple
+34,Golden Apple
+35,Seeds
+36,Wheat
+37,Bread
+38,Brick
+39,Bucket
+40,Water Bucket
+41,Lava Bucket
+42,Sugar Cane
+43,Rose
+44,Dandelion
+45,Oak Sapling
+46,Paper
+47,Book
+48,Snowball
+49,Mushroom
+50,Mushroom
+51,Bowl
+52,Mushroom Stew
+53,Door
+54,Ladder
+55,Torch
+56,Spruce Sapling
+57,Birch Sapling
+58,Melon
+59,Melon Seeds
+60,Sugar
+61,Cocoa Beans
+62,Cookie
+63,Raw Beef
+64,Steak
+65,Lapis Lazuli
+66,Milk Bucket
+67,Cake
+68,Bone
+69,Bone Meal
+70,Leather
+71,Leather Cap
+72,Leather Tunic
+73,Leather Pants
+74,Leather Boots
+75,Chain Helmet
+76,Chain Chestplate
+77,Chain Leggings
+78,Chain Boots
+79,Iron Helmet
+80,Iron Chestplate
+81,Iron Leggings
+82,Iron Boots
+83,Diamond Helmet
+84,Diamond Chestplate
+85,Diamond Leggings
+86,Diamond Boots
+87,Golden Helmet
+88,Golden Chestplate
+89,Golden Leggings
+90,Golden Boots
+91,Rotten Flesh
+92,Glass Pane
+93,Iron Bars
+94,Flint
+95,Gunpowder
+96,Redstone Dust
+97,Clock
+98,Compass
+99,Saddle
+100,Sign
+101,Item Frame
+102,Flower Pot
+103,Painting
+104,Bed
+105,Music Disc
+106,Light Gray Dye
+107,Gray Dye
+108,Cyan Dye
+109,Pink Dye
+110,Red Dye
+111,Orange Dye
+112,Yellow Dye
+113,Lime Dye
+114,Green Dye
+115,Light Blue Dye
+116,Purple Dye
+117,Magenta Dye
+118,Pumpkin Seeds
+119,Flint and Steel
+120,Potato
+121,Baked Potato
+122,Poisonous Potato
+123,Carrot
+124,Music Disc
+125,Raw Porkchop
+126,Cooked Porkchop
+127,Raw Mutton
+128,Cooked Mutton
+129,Raw Chicken
+130,Cooked Chicken
+131,Feather
+132,Cow Spawn Egg
+133,Sheep Spawn Egg
+134,Chicken Spawn Egg
+135,Pig Spawn Egg
+136,Zombie Spawn Egg
+137,Creeper Spawn Egg
+138,Spider Spawn Egg
+139,Spider Eye
+140,String
+141,Bow
+142,Arrow
+143,Cave Spider Spawn Egg
+144,Skeleton Spawn Egg
+145,Shield
+146,Quartz
+147,Zombie Pigman Spawn Egg
+148,Glowstone Dust
+149,Wither Skeleton Spawn Egg

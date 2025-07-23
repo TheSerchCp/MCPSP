@@ -1,0 +1,105 @@
+1,Bloco de Grama
+2,Terra
+3,Pedra
+4,Água
+5,Minério de Ouro
+6,Areia
+7,Madeira de Carvalho
+8,Folhas de Carcalho
+9,Lã Preta
+10,Lã Cinza
+11,Lã Vermelha
+12,Lã Rosa
+13,Lã Verde
+14,Lã Limão
+15,Lã Marrom
+16,Lã Amarela
+17,Lã Azul
+18,Lã Azul-Claro
+19,Lã Roxa
+20,Lã Magenta
+21,Lã Laranja
+22,Lã Cinza-Claro
+23,Lã Branca
+24,Cacto
+25,Arenito
+26,Tijolos
+27,Gerador
+28,Neve
+29,Madeira de Pinheiro
+30,Madeira de Bétula
+31,Gelo
+32,Cana-de-Açúcar 
+33,Tábua de Carvalho
+34,Estante de Livros
+35,Pedregulho
+36,Folhas de Pinheiro
+37,Folhas de Bétula
+38,Teia de Aranha
+39,Vidro
+40,Minério de Ferro
+41,Minério de Carvão
+42,Minério de Diamante
+43,Minério de Redstone
+44,Minério de Lápis-Lazúli
+45,Obsidiana
+46,Neve
+47,Porta
+48,Cerca de Madeira
+49,Escadas de Pedra
+50,Bloco de Diamante
+51,Bloco de Ouro
+52,Bloco de Ferro
+53,Escadas de Tijolo
+54,Bloco de Notas
+55,Bloco de Música
+56,Abóbora
+57,Melancia
+58,Laje de Carvalho
+59,Laje de Pedra
+60,Laje de Tijolos
+61,Alçapão de Pedregulho
+62,Laje de Arenito
+63,Laje Dupla
+64,Pedregulho com Musgo
+65,Neve da Superfície
+66,Baú
+67,Argila
+68,Bloco de Lápis-Lazúli
+69,Tijolos de Pedra
+70,Tijolos de Pedra Rachados
+71,Bloco de Pedra Cinzelada
+72,Mesa de Trabalho
+73,Fornalha
+74,Laje de Tijolos de Pedra
+75,Gerador
+76,TNT
+77,Lava
+78,Cascalho
+79,Escadas de Carvalho
+80,Bedrock
+81,Abóbora Iluminada
+82,Alçapão de Madeira
+83,Madeira de Bétula
+84,Madeira de Pinheiro
+85,Laje de Bétula
+86,Laje de Pinheiro
+87,Cerca de Bétula
+88,Cerca de Pinheiro
+89,Escadas de Bétula
+90,Escadas de Pinheiro
+91,Tapete
+92,Fardo de Feno
+93,Bloco de Carvão
+94,Bloco de Redstone
+95,Bloco de Quartzo
+96,Pilar de Quartzo
+97,Bloco de Quartzo Cinzelado
+98,Netherrack
+99,Areia das Almas
+100,Pedra Luminosa
+101,Minério de Quartzo do Nether
+102,Areia Vermelha
+103,Bloco de Argila
+104,Tijolos do Nether
+105,Cerca de Tijolos do Nether

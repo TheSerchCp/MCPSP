@@ -1,0 +1,90 @@
+1,Play
+2,Options
+3,Texture Packs
+4,Exit
+5,About
+6,Skin
+7,Select
+8,Cancel
+9,Back
+10,Skin
+11,Choose Skin
+12,Developer:
+13,Country:
+14,Donate:
+15,Version:
+16,Type:
+17,Stage:
+18,Contributors:
+19,Special Thanks:
+20,Load
+21,Create
+22,Worlds
+23,Survival
+24,Creative
+25,Hardcore
+26,
+27,
+28,
+29,
+30,Create New World
+31,Rename
+32,Delete
+33,Do you wish to delete this world?
+34,(This cannot be reverted)
+35,Are you sure?
+36,Yes
+37,No
+38,Confirm
+39,Gamemode: Survival
+40,Gamemode: Creative
+41,Gamemode: Hardcore
+42,Structures: On
+43,Structures: Off
+44,Bonus Chest: On
+45,Bonus Chest: Off
+46,World Type: Default
+47,World Type: Flat
+48,Random
+49,On
+50,Off
+51,Game Menu
+52,Back to Game
+53,Options...
+54,Achievements
+55,Save
+56,Save and Exit
+57,Exit
+58,H View Distance
+59,V View Distance
+60,Difficulty: Peaceful
+61,Difficulty: Easy
+62,Difficulty: Normal
+63,Difficulty: Hard
+64,Sounds:
+65,Music:
+66,Smooth Lighting
+67,Fog Rendering
+68,Detailed Sky
+69,New-Sprint
+70,Animated Blocks
+71,Auto-Jump
+72,Help Buttons
+73,GUI Rendering
+74,Dev Mode
+75,
+76,
+77,
+78,
+79,
+80,
+81,
+82,
+83,
+84,
+85,
+86,
+87,
+88,
+89,
+90,

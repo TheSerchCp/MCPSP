@@ -1,0 +1,105 @@
+1,Grass Block
+2,Dirt
+3,Stone
+4,Water
+5,Gold Ore
+6,Sand
+7,Oak Wood
+8,Oak Leaves
+9,Black Wool
+10,Gray Wool
+11,Red Wool
+12,Pink Wool
+13,Green Wool
+14,Lime Wool
+15,Brown Wool
+16,Yellow Wool
+17,Blue Wool
+18,Light Blue Wool
+19,Purple Wool
+20,Magenta Wool
+21,Orange Wool
+22,Light Gray Wool
+23,White Wool
+24,Cactus
+25,Sandstone
+26,Bricks
+27,Spawner
+28,Snow
+29,Spruce Wood
+30,Birch Wood
+31,Ice
+32,Sugar Cane
+33,Oak Planks
+34,Bookshelf
+35,Cobblestone
+36,Spruce Leaves
+37,Birch Leaves
+38,Cobweb
+39,Glass
+40,Iron Ore
+41,Coal Ore
+42,Diamond Ore
+43,Redstone Ore
+44,Lapis Lazuli Ore
+45,Obsidian
+46,Snow
+47,Door
+48,Oak Fence
+49,Stone Stairs
+50,Block of Diamond
+51,Block of Gold
+52,Block of Iron
+53,Brick Stairs
+54,Note Block
+55,Jukebox
+56,Pumpkin
+57,Melon
+58,Oak Slab
+59,Stone Slab
+60,Brick Slab
+61,Cobblestone Slab
+62,Sandstone Slab
+63,Double Slab
+64,Mossy Cobblestone
+65,Top Snow
+66,Chest
+67,Clay
+68,Block of Lapis Lazuli
+69,Stone Bricks
+70,Cracked Stone Bricks
+71,Chiseled Stone Bricks
+72,Crafting Table
+73,Furnace
+74,Stone Brick Slab
+75,Spawner
+76,TNT
+77,Lava
+78,Gravel
+79,Oak Stairs
+80,Bedrock
+81,Jack o'Lantern
+82,Wooden Trapdoor
+83,Birch Wood
+84,Spruce Wood
+85,Birch Slab
+86,Spruce Slab
+87,Birch Fence
+88,Spruce Fence
+89,Birch Stairs
+90,Spruce Stairs
+91,Carpet
+92,Hay Bale
+93,Block of Coal
+94,Block of Redstone
+95,Block of Quartz
+96,Quartz Pillar
+97,Chiseled Quartz Block
+98,Netherrack
+99,Soul Sand
+100,Glowstone
+101,Nether Quartz Ore
+102,Red Sand
+103,Hardened Clay
+104,Nether Bricks
+105,Nether Brick Fence
