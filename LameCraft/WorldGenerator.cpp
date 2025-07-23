@@ -4,6 +4,7 @@
 #include "LoadingScreen.h"
 
 #include <Aurora/Utils/Logger.h>
+#include <pspthreadman.h>
 
 #define PI 3.1415926535897f
 
@@ -57,11 +58,16 @@ void WorldGenerator::initRandompMap(int worldSize, int worldHeight, int chunkSiz
     // Complete loading process immediately for chunk-based system
     loading->stateName = 6; // "Finalizing"
     loading->readiness = 100;
-    loading->stateName = 7; // Complete
     
     // Set spawn position (simple default)
     world->playerSpawnPointPosition = Vector3(0.0f, 70.0f, 0.0f);
     
+    // Brief pause to show completion state
+    loading->stateName = 7; // Complete
+    sceKernelDelayThread(500000); // 0.5 second delay
+    
+    // Properly terminate the loading screen thread
+    loading->KillLoadingScreen();
     delete loading;
 }
 
