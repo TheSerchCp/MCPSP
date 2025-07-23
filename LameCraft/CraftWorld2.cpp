@@ -4856,6 +4856,7 @@ bool CraftWorld::DestroyAroundTrapdoors(const int x, const int y, const int z)
         }
     }
     //RebuildTransparentMeshChunk(getChunkId(Vector3(x,y,z)));
+    return false;
 }
 
 bool CraftWorld::DestroyAroundItemFrames(const int x, const int y, const int z)
@@ -4999,6 +5000,7 @@ bool CraftWorld::DestroyAroundItemFrames(const int x, const int y, const int z)
         }
     }
     //RebuildTransparentMeshChunk(getChunkId(Vector3(x,y,z)));
+    return false;
 }
 
 
@@ -5108,7 +5110,8 @@ bool CraftWorld::BlockTransparentOrSpecial(const int x, const int y, const int z
 {
     if (x < 0 || y < 0 || z < 0  || x >= WORLD_SIZE || y >= WORLD_HEIGHT || z >= WORLD_SIZE) return true;
 
-    if(blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].transparent || blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].blockModel > 0)
+    block_t blockId = _GetBlock(x, y, z);
+    if(blockTypes[blockId].transparent || blockTypes[blockId].blockModel > 0)
         return true;
 
     return false;
@@ -5118,16 +5121,19 @@ bool CraftWorld::BlockTransparentOrLightSource(const int x, const int y, const i
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        if(blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].transparent || blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].lightSource || blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].refraction == 2)
+        block_t blockId = _GetBlock(x, y, z);
+        if(blockTypes[blockId].transparent || blockTypes[blockId].lightSource || blockTypes[blockId].refraction == 2)
             return true;
 
         return false;
     }
+    return true;
 }
 
 bool CraftWorld::BlockTransparentOrLightSourceNoCheck(const int x, const int y, const int z)
 {
-    if(blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].transparent || blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].lightSource || blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].refraction == 2)
+    block_t blockId = _GetBlockNoCheck(x, y, z);
+    if(blockTypes[blockId].transparent || blockTypes[blockId].lightSource || blockTypes[blockId].refraction == 2)
     {
         return true;
     }
@@ -5139,75 +5145,82 @@ bool CraftWorld::BlockTransparent(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].transparent;
+        return blockTypes[_GetBlock(x, y, z)].transparent;
     }
+    return true;
 }
 
 bool CraftWorld::BlockTransparentNoCheck(const int x, const int y, const int z)
 {
-    return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].transparent;
+    return blockTypes[_GetBlockNoCheck(x, y, z)].transparent;
 }
 
 bool CraftWorld::BlockAnimated(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].animated;
+        return blockTypes[_GetBlock(x, y, z)].animated;
     }
+    return false;
 }
 
 char CraftWorld::BlockSpecial(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].blockModel;
+        return blockTypes[_GetBlock(x, y, z)].blockModel;
     }
+    return 0;
 }
 
 char CraftWorld::BlockSpecialNoCheck(const int x, const int y, const int z)
 {
-    return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].blockModel;
+    return blockTypes[_GetBlockNoCheck(x, y, z)].blockModel;
 }
 
 bool CraftWorld::BlockUpdate2(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].update;
+        return blockTypes[_GetBlock(x, y, z)].update;
     }
+    return false;
 }
 
 bool CraftWorld::BlockSolid(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].solid;
+        return blockTypes[_GetBlock(x, y, z)].solid;
     }
+    return false;
 }
 
 short CraftWorld::BlockLoot(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].loot;
+        return blockTypes[_GetBlock(x, y, z)].loot;
     }
+    return 0;
 }
 
 short CraftWorld::BlockMaterial(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].material;
+        return blockTypes[_GetBlock(x, y, z)].material;
     }
+    return 0;
 }
 
 bool CraftWorld::BlockEditable(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].editable;
+        return blockTypes[_GetBlock(x, y, z)].editable;
     }
-    return 0;
+    return false;
 }
 
 
@@ -5215,16 +5228,16 @@ bool CraftWorld::BlockAllowLight(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].allowLight;
+        return blockTypes[_GetBlock(x, y, z)].allowLight;
     }
-    return 0;
+    return false;
 }
 
 char CraftWorld::BlockRefraction(const int x, const int y, const int z)
 {
     if (x >= 0 && x < WORLD_SIZE && z >= 0 && z < WORLD_SIZE && y >= 0 && y < WORLD_HEIGHT)
     {
-        return blockTypes[m_Blocks[x + y * WORLD_SIZE + z * WORLD_SIZE * WORLD_HEIGHT]].refraction;
+        return blockTypes[_GetBlock(x, y, z)].refraction;
     }
     return 0;
 }
