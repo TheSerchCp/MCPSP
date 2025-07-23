@@ -24,9 +24,6 @@ void WorldGenerator::initRandompMap(int worldSize, int worldHeight, int chunkSiz
 	else loading->Nether = false;
 
     //inicjuj mape
-    int WORLD_SIZE = worldSize;
-    int CHUNK_SIZE = chunkSize;
-    int WORLD_HEIGHT = 98;
     
     // Fast loading for chunk-based system - skip full world generation
     loading->stateName = 2; // "Digging caves"
@@ -52,9 +49,9 @@ void WorldGenerator::initRandompMap(int worldSize, int worldHeight, int chunkSiz
     SetSeed(seed);
     
     // Set up ChunkManager with WorldGenerator
-    if (world->m_chunkManager)
+    if (world->getChunkManager())
     {
-        world->m_chunkManager->setWorldGenerator(this);
+        world->getChunkManager()->setWorldGenerator(this);
     }
     
     // Complete loading process immediately for chunk-based system
@@ -666,7 +663,7 @@ void WorldGenerator::initBiome(int WORLD_SIZE, CraftWorld *world, PerlinModule* 
                 {
                     if(x == biomeCenterX-biomeRadius || x == biomeCenterX+biomeRadius || z == biomeCenterZ-biomeRadius || z == biomeCenterZ+biomeRadius)
                     {
-                        if(rand() % 4 == 1)
+                        if((rand() % 4) == 1)
                         {
                             continue;
                         }
@@ -722,7 +719,7 @@ void WorldGenerator::initBiome(int WORLD_SIZE, CraftWorld *world, PerlinModule* 
                 {
                     if(x == biomeCenterX-biomeRadius || x == biomeCenterX+biomeRadius || z == biomeCenterZ-biomeRadius || z == biomeCenterZ+biomeRadius)
                     {
-                        if(rand() % 4 == 1)
+                        if((rand() % 4) == 1)
                         {
                             continue;
                         }
@@ -1992,10 +1989,6 @@ void WorldGenerator::initQuartz(int WORLD_SIZE, CraftWorld *world)
 void WorldGenerator::initNetherFortress(int WORLD_SIZE, CraftWorld *world, int estructura)
 {
 	int x1, z1, y1;
-	int tempx, tempy, tempz;
-	
-	int columnas = 5 + rand()% 10;
-	int calles = 0 + rand()% 4;
 	
 	switch(estructura)
 	{
@@ -2117,7 +2110,7 @@ void WorldGenerator::initNetherFortress(int WORLD_SIZE, CraftWorld *world, int e
 				block_t& blockID = world->GetBlock(x1 + x2, y1 + y2, z1 + z2);
 				
 				//Colocar pozo de lava
-				if((x2 >= 5 && x2 <= 7) && y2 == 3 & (z2 >= 5 && z2 <= 7)){
+				if((x2 >= 5 && x2 <= 7) && y2 == 3 && (z2 >= 5 && z2 <= 7)){
 					if(x2 == 6 && z2 == 6){
 						blockID = Lava::getID();
 						continue;
@@ -2289,9 +2282,7 @@ void WorldGenerator::initCofreBonus(int WORLD_SIZE, CraftWorld *world)
 		int am = 0;
 		bool st = true;
 
-		int rand1 = rand() % 100;
-
-		/*if(rand1 < 65)
+		/*if(rand() % 100 < 65)
 		{
 			switch(rand() % 6)
 			{

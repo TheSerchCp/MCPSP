@@ -805,6 +805,9 @@ public:
 
 	std::vector<int> mNearestChunksIds;
 
+	// Getter for ChunkManager
+	ChunkManager* getChunkManager() { return m_chunkManager; }
+
 private:
 
 	int texutreSize;
